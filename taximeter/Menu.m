@@ -21,6 +21,7 @@
     printf("\n\n\t\t\t\t\t\t\t\t\t\t\t2. Fill up gas tank.");
     printf("\n\n\t\t\t\t\t\t\t\t\t\t\t3. Finish to work.");
     printf("\n\n\n\t\t\t\t\t\t\t\t\t\t\tOption => ");
+    printf("HI"); /// TODO: REMOVE IT LATER
     scanf("%d",&option);
     return option;
 }
